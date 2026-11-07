@@ -41,6 +41,8 @@ OF SUCH DAMAGE.
 #include "gd32f4xx_enet_eval.h"
 #include "task.h"
 
+#define SOFTWARE_VERSION	"V0.01"
+
 //#define USE_DHCP       /* enable DHCP, if disabled static address is used */
 
 /* MAC address: BOARD_MAC_ADDR0:BOARD_MAC_ADDR1:BOARD_MAC_ADDR2:BOARD_MAC_ADDR3:BOARD_MAC_ADDR4:BOARD_MAC_ADDR5 */
