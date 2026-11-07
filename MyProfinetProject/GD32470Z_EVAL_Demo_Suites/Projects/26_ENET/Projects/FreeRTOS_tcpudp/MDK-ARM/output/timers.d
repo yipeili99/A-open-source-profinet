@@ -1,0 +1,15 @@
+.\output\timers.o: ..\..\..\Third_party\FreeRTOS-10.3.1\timers.c
+.\output\timers.o: C:\keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\output\timers.o: ..\..\..\Third_party\FreeRTOS-10.3.1\include\FreeRTOS.h
+.\output\timers.o: C:\keil5\ARM\ARMCC\Bin\..\include\stddef.h
+.\output\timers.o: C:\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+.\output\timers.o: ..\inc\FreeRTOSConfig.h
+.\output\timers.o: ..\..\..\Third_party\FreeRTOS-10.3.1\include\projdefs.h
+.\output\timers.o: ..\..\..\Third_party\FreeRTOS-10.3.1\include\portable.h
+.\output\timers.o: ..\..\..\Third_party\FreeRTOS-10.3.1\include\deprecated_definitions.h
+.\output\timers.o: ..\..\..\Third_party\FreeRTOS-10.3.1\portable\RVDS\ARM_CM4F\portmacro.h
+.\output\timers.o: ..\..\..\Third_party\FreeRTOS-10.3.1\include\mpu_wrappers.h
+.\output\timers.o: ..\..\..\Third_party\FreeRTOS-10.3.1\include\task.h
+.\output\timers.o: ..\..\..\Third_party\FreeRTOS-10.3.1\include\list.h
+.\output\timers.o: ..\..\..\Third_party\FreeRTOS-10.3.1\include\queue.h
+.\output\timers.o: ..\..\..\Third_party\FreeRTOS-10.3.1\include\timers.h

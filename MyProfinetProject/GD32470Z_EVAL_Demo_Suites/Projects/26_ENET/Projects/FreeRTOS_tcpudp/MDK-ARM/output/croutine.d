@@ -1,0 +1,14 @@
+.\output\croutine.o: ..\..\..\Third_party\FreeRTOS-10.3.1\croutine.c
+.\output\croutine.o: ..\..\..\Third_party\FreeRTOS-10.3.1\include\FreeRTOS.h
+.\output\croutine.o: C:\keil5\ARM\ARMCC\Bin\..\include\stddef.h
+.\output\croutine.o: C:\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+.\output\croutine.o: ..\inc\FreeRTOSConfig.h
+.\output\croutine.o: ..\..\..\Third_party\FreeRTOS-10.3.1\include\projdefs.h
+.\output\croutine.o: ..\..\..\Third_party\FreeRTOS-10.3.1\include\portable.h
+.\output\croutine.o: ..\..\..\Third_party\FreeRTOS-10.3.1\include\deprecated_definitions.h
+.\output\croutine.o: ..\..\..\Third_party\FreeRTOS-10.3.1\portable\RVDS\ARM_CM4F\portmacro.h
+.\output\croutine.o: ..\..\..\Third_party\FreeRTOS-10.3.1\include\mpu_wrappers.h
+.\output\croutine.o: ..\..\..\Third_party\FreeRTOS-10.3.1\include\task.h
+.\output\croutine.o: ..\..\..\Third_party\FreeRTOS-10.3.1\include\list.h
+.\output\croutine.o: ..\..\..\Third_party\FreeRTOS-10.3.1\include\croutine.h
+.\output\croutine.o: ..\..\..\Third_party\FreeRTOS-10.3.1\include\list.h

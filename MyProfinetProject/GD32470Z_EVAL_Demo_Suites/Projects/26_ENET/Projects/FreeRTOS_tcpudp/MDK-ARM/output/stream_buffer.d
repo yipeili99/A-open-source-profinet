@@ -1,0 +1,14 @@
+.\output\stream_buffer.o: ..\..\..\Third_party\FreeRTOS-10.3.1\stream_buffer.c
+.\output\stream_buffer.o: C:\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+.\output\stream_buffer.o: C:\keil5\ARM\ARMCC\Bin\..\include\string.h
+.\output\stream_buffer.o: ..\..\..\Third_party\FreeRTOS-10.3.1\include\FreeRTOS.h
+.\output\stream_buffer.o: C:\keil5\ARM\ARMCC\Bin\..\include\stddef.h
+.\output\stream_buffer.o: ..\inc\FreeRTOSConfig.h
+.\output\stream_buffer.o: ..\..\..\Third_party\FreeRTOS-10.3.1\include\projdefs.h
+.\output\stream_buffer.o: ..\..\..\Third_party\FreeRTOS-10.3.1\include\portable.h
+.\output\stream_buffer.o: ..\..\..\Third_party\FreeRTOS-10.3.1\include\deprecated_definitions.h
+.\output\stream_buffer.o: ..\..\..\Third_party\FreeRTOS-10.3.1\portable\RVDS\ARM_CM4F\portmacro.h
+.\output\stream_buffer.o: ..\..\..\Third_party\FreeRTOS-10.3.1\include\mpu_wrappers.h
+.\output\stream_buffer.o: ..\..\..\Third_party\FreeRTOS-10.3.1\include\task.h
+.\output\stream_buffer.o: ..\..\..\Third_party\FreeRTOS-10.3.1\include\list.h
+.\output\stream_buffer.o: ..\..\..\Third_party\FreeRTOS-10.3.1\include\stream_buffer.h

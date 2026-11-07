@@ -1,0 +1,16 @@
+.\output\tasks.o: ..\..\..\Third_party\FreeRTOS-10.3.1\tasks.c
+.\output\tasks.o: C:\keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\output\tasks.o: C:\keil5\ARM\ARMCC\Bin\..\include\string.h
+.\output\tasks.o: ..\..\..\Third_party\FreeRTOS-10.3.1\include\FreeRTOS.h
+.\output\tasks.o: C:\keil5\ARM\ARMCC\Bin\..\include\stddef.h
+.\output\tasks.o: C:\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+.\output\tasks.o: ..\inc\FreeRTOSConfig.h
+.\output\tasks.o: ..\..\..\Third_party\FreeRTOS-10.3.1\include\projdefs.h
+.\output\tasks.o: ..\..\..\Third_party\FreeRTOS-10.3.1\include\portable.h
+.\output\tasks.o: ..\..\..\Third_party\FreeRTOS-10.3.1\include\deprecated_definitions.h
+.\output\tasks.o: ..\..\..\Third_party\FreeRTOS-10.3.1\portable\RVDS\ARM_CM4F\portmacro.h
+.\output\tasks.o: ..\..\..\Third_party\FreeRTOS-10.3.1\include\mpu_wrappers.h
+.\output\tasks.o: ..\..\..\Third_party\FreeRTOS-10.3.1\include\task.h
+.\output\tasks.o: ..\..\..\Third_party\FreeRTOS-10.3.1\include\list.h
+.\output\tasks.o: ..\..\..\Third_party\FreeRTOS-10.3.1\include\timers.h
+.\output\tasks.o: ..\..\..\Third_party\FreeRTOS-10.3.1\include\stack_macros.h
